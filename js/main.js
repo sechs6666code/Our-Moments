@@ -1,7 +1,7 @@
 const memories = [
   {
     id: 1,
-    url: "1.svg",
+    url: "1.png",
     alt: "1",
     date: "2022/xx/xx,照片时间没了宝宝",
     location: "南山的滑雪场",
