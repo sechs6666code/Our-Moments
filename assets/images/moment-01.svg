@@ -1,0 +1,9 @@
+<svg width="1600" height="1080" viewBox="0 0 1600 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1080" fill="#EFE8E0"/>
+  <rect y="664" width="1600" height="416" fill="#C8D4DD"/>
+  <circle cx="1210" cy="232" r="116" fill="#F5C6B8"/>
+  <path d="M0 735C124 698 196 677 332 694C524 718 624 834 819 836C1000 838 1132 719 1291 689C1414 666 1509 686 1600 723V1080H0V735Z" fill="#8EA0B1"/>
+  <path d="M0 620C116 575 205 561 329 585C487 615 620 705 763 705C925 705 1047 590 1192 570C1335 551 1454 590 1600 649V1080H0V620Z" fill="#D5B3A4"/>
+  <text x="110" y="938" fill="#FFFFFF" font-family="Georgia, serif" font-size="74" letter-spacing="2">OUR MOMENTS / 01</text>
+  <text x="112" y="1002" fill="#FFFFFF" fill-opacity="0.78" font-family="Arial, sans-serif" font-size="28" letter-spacing="8">SEA BREEZE</text>
+</svg>

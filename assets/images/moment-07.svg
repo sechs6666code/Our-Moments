@@ -1,0 +1,9 @@
+<svg width="1100" height="1480" viewBox="0 0 1100 1480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1100" height="1480" fill="#ECEAE5"/>
+  <rect y="885" width="1100" height="595" fill="#A4B7C7"/>
+  <circle cx="820" cy="212" r="108" fill="#D8C5B5"/>
+  <path d="M0 1019C158 964 260 929 385 929C595 929 715 1021 864 1021C941 1021 1024 997 1100 960V1480H0V1019Z" fill="#7C8994"/>
+  <path d="M327 1480C353 1248 432 1080 555 1080C690 1080 769 1243 793 1480H327Z" fill="#E0BDB1"/>
+  <text x="78" y="1301" fill="#FFFFFF" font-family="Georgia, serif" font-size="68" letter-spacing="2">OUR MOMENTS / 07</text>
+  <text x="82" y="1360" fill="#FFFFFF" fill-opacity="0.8" font-family="Arial, sans-serif" font-size="28" letter-spacing="8">AFTER RAIN</text>
+</svg>
