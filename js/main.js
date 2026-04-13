@@ -1,16 +1,16 @@
 const memories = [
   {
     id: 1,
-    url: "assets/images/moment-01.svg",
-    alt: "海边夕照的横向占位图",
-    date: "2023/06/18",
-    location: "红树湾公园的海风",
-    story: "第一次好好给你拍照，风把头发吹乱了，但你笑起来的时候，整片海都变得很温柔。",
+    url: "1.jpg",
+    alt: "1",
+    date: "2022/xx/xx,照片时间没了宝宝",
+    location: "南山的滑雪场",
+    story: "第一次给你拍照，无敌摄影师天赋尽显。",
     shape: "landscape",
     layout: "wide-left",
     speed: 0.09,
     accentShadow: "rgba(236, 178, 167, 0.32)",
-    liquidText: "翻开红树湾公园的海风",
+    liquidText: "",
   },
   {
     id: 2,
